@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "category": "Financial",
+      "price": 14.99,
+      "cover_image": "1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Gail VAZ-Oxlade",
+      "author": "Debt-Free Forever",
+      "category": "Financial",
+      "price": 13.99,
+      "cover_image": "22.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Your Money, the missing manual",
+      "author": "JO Rosh",
+      "category": "Financial",
+      "price": 20.50,
+      "cover_image": "33.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Think and Grow Rich",
+      "author": "Naploean Hill",
+      "category": "Financial",
+      "price": 30,
+      "cover_image": "4.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "The Millioanire Fastlane",
+      "author": "MJ Demarco",
+      "category": "Financial",
+      "price": 14.75,
+      "cover_image": "5.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Red Notice",
+      "author": "Bill Browder",
+      "category": "Financial",
+      "price": 13.99,,
+      "cover_image": "66.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Bogleheads",
+      "author": "John C Bogle",
+      "category": "Financial",
+      "price": 21.50,
+      "cover_image": "7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert.Kiyosaki",
+      "category": "Financial",
+      "price": 19.99,
+      "cover_image": "77.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": "Financial",
+      "price": 23.75,
+      "cover_image": "8.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "The Compound Effect",
+      "author": "Darren Hardy",
+      "category": "Financial",
+      "price": 16.25,
+      "cover_image": "10.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "category": "Financial",
+      "price": 10.50,
+      "description": "Philosophical novel.",
+      "cover_image": "19.jpeg"
+    },
+    {
+      "id": 12,
+      "title": "Seven Habits of Highly Effective People",
+      "author": "Stephan R.Covey",
+      "category": "Financial",
+      "price": 35,
+      "cover_image": "12.jpeg"
+    },
+    
